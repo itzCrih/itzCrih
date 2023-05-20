@@ -1,8 +1,10 @@
 # itzCrih
-- Minecraft Pluginner
+## Chi sono?
+- Professional Minecraft pluginner
 - Java Developer
 - PotPVP & Boxing player.
-# Contattami
+# Contatti
+## Ecco dove puoi scrivermi, se ne hai neccessità:
 - Discord: itz_Crih#2305
-- Telegram: @itz_Crih
-- YouTube: https://www.youtube.com/c/itzCrih1
+- Telegram: t.me/itzcrih
+- YouTube: youtube.com/c/itzCrih
