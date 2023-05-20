@@ -10,6 +10,7 @@
 Al momento ho 2 progetti pubblici:
 - EchoMC (Minecraft Network)
 - zKitPVP (Spigot & Bukkit plugin)
+
 Ma ne ho altri privati, se sei interessato:
 - EchoCore (Un core plugin generale per funzioni essenziali)
 - CrihTools (Un plugin per spigot che ottimizza le prestazioni)
