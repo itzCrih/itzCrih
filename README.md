@@ -7,9 +7,8 @@
 - Telegram: t.me/itzcrih
 - YouTube: youtube.com/c/itzCrih
 ## Progetti
-Al momento ho 2 progetti pubblici:
+Al momento ho un progetto pubblico:
 - EchoMC (Minecraft Network)
-- zKitPVP (Spigot & Bukkit plugin)
 
 Ma ne ho altri privati, se sei interessato:
 - EchoCore (Un core plugin generale per funzioni essenziali)
